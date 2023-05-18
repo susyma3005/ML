@@ -1,0 +1,7 @@
+In this folder there are two basic tutorials:
+
+=> Create a Support Vector Machine (SVM) with some random data and build the hyperplane, plus some other additions avout the SVM. For this tutorial it will read the file bill_authentication.csv.
+
+=> Tutorial into NN: The first part is dedicated to pytorch, and how to build tensors inside pytorch. Then after how to build a simple linear neural network with python, and then the same one with pytorch and how to build special functions. At the end I added how to do autoencoders (which at the end is a fancy NN), the autoencoder can be used as a basis for a proper NN with several layers and neurons. For the last part it will use a file with bond order parameters of a hard-sphere glass.
+
+The tutorials are done in jupyter for making it "interactive" but there's the python version that should work the same. (I didn't try it but shouldwork properly)
